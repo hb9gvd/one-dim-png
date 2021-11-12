@@ -13,14 +13,14 @@ Table of contents
 Firmware Versions
 ============
 To use with 100ms pulse coin counter 
-[Arduino code and used libraries](https://github.com/hb9gvd/one-dim-png/software/).
+[Arduino code and used libraries](./software/).
 
 
 Schematic
 ============
 Repository has updated Schematic made with Kicad. Some more information could be found 
-[here](https://github.com/hb9gvd/one-dim-png/hardware/kicad/).
+[here](./hardware/kicad/).
 Altough, find here printable 
-[Schematic](https://github.com/hb9gvd/one-dim-png/hardware/one-dim-pong.pdf) 
+[Schematic](./hardware/one-dim-pong.pdf) 
 and have a look to the 
-[PCB picture](https://github.com/hb9gvd/one-dim-png/hardware/one-dim-pong.png).
+[PCB picture](./hardware/One-Dim-Pong-3D-V1.png).
